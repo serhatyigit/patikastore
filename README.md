@@ -1,7 +1,7 @@
 # patikastore
 
 
-Patika.dev react native patikası Ödev !
+Patika.dev react native patikası Ödev 1
 
 Ekran SS 1
 
